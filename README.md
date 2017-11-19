@@ -1,2 +1,2 @@
-# Curso-Em-V-deo---Curso-HTML-5
+# Curso em Vídeo - Curso HTML5
 Curso feito no cursoemvideo.com de HTML.
